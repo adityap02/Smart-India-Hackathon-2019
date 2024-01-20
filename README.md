@@ -37,6 +37,8 @@ Description of the directory structure and main files:
 Detailed instructions for setting up the database using the provided SQL dump, along with an explanation of the schema based on the UML diagram.
 
 ## Supporting Documents
+[PPT](Docs/SIH.pptx)
+[UML Diagram](Docs/Uml.jpeg)
 
 ## Contributing
 Guidelines for how others can contribute to the project, including coding standards, pull request processes, etc.
