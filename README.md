@@ -38,7 +38,7 @@ Detailed instructions for setting up the database using the provided SQL dump, a
 
 ## Supporting Documents
 [PPT](Docs/SIH.pptx)
-[UML Diagram](Docs/Uml.jpeg)
+[UML Diagram](Docs/Uml.png)
 
 ## Contributing
 Guidelines for how others can contribute to the project, including coding standards, pull request processes, etc.
